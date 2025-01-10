@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Abraão Santiago
+# 👨‍💻 Abraão Santiago
 
 **`Engenheiro de Dados e Cientista de Dados`**
 
@@ -24,7 +24,41 @@ Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atu
 ---
 
 ### 🤖 Linguagens e Tecnologias
+          
+          
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -57,14 +91,7 @@ Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
@@ -79,6 +106,5 @@ Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atu
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=abraao8401&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 
 </p>
