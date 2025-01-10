@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados e Cientista de Dados`**
 
-Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atualmente, estou cursando o sexto período de Engenharia de Software na Universidade Federal de Goiás (UFG). Tenho grande interesse na área de dados, com foco em orquestração de fluxos de dados, Big Data e na aplicação de Ciência de Dados para transformar informações em insights estratégicos e soluções inovadoras. Além disso, curto ler ALta Fantasia nos horários livres e adoro fazer bolos recheados!
+Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atualmente, estou cursando o sexto período de Engenharia de Software na Universidade Federal de Goiás (UFG). Tenho grande interesse na área de dados, com foco em orquestração de fluxos de dados, Big Data e na aplicação de Ciência de Dados para transformar informações em insights estratégicos e soluções inovadoras. Além disso, curto ler Alta Fantasia nos horários livres e adoro fazer bolos recheados!
 
 <p>
     <a href="https://github.com/abraao8401?tab=repositories&sort=stargazers">
@@ -48,78 +48,6 @@ Me chamo Abraão Santiago Moreira, tenho 21 anos e sou natural do Tocantins. Atu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
